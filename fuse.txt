@@ -1,0 +1,9 @@
+first - highlight the repository address the type cmd
+2nd type (git init)
+3rd type (git status)
+4th type (git add use.txt)
+5th type (git status)
+6th type (git commit -m "first commit") go back to your ile and type anthing there, then come back and type the 7th 
+7th (git status)
+
+dhdh
